@@ -12,4 +12,4 @@ def name
 end
 end
 
-beyonce = Dog.new("Mutt")
+mutt = Dog.new("Mutt")
