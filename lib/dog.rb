@@ -3,8 +3,8 @@ class Dog
     @name = name
   end
 
-  def name= mutt
-    @name = "Mutt"
+  def name= fido
+    @name = "Fido"
 end
 
 def name
@@ -12,4 +12,4 @@ def name
 end
 end
 
-mutt = Dog.new("Mutt")
+fido = Dog.new("Fido")
