@@ -3,3 +3,5 @@ class Dog
     @name = "Fido"
   end
 end
+
+Dog.new = "Fido"
